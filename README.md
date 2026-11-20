@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Hung 👋 — Junior Front-End Web Developer
 
-<!--
-**DangHung22-hub/DangHung22-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build clean, responsive landing pages and one-page websites for small businesses using pure **HTML5, CSS3 (Flexbox/Grid), and vanilla JavaScript**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Featured Front-End Demos
+- **RoastCraft Coffee Co. – Specialty Coffee Landing Page (English Demo)**
+  - 🔗 **Live Demo:** https://danghung22-hub.github.io/roastcraft-coffee-demo/ | **Code:** [roastcraft-coffee-demo](https://github.com/DangHung22-hub/roastcraft-coffee-demo)
+  - Responsive desktop/mobile layout, live search & category filter, slide-out demo cart, FAQ accordion, and client-side form validation.
+- **Donicake – Bakery Storefront & Landing Page Demo**
+  - 🔗 **Live Demo:** https://donicake.pages.dev/
+  - Pure HTML5, CSS3, and vanilla JavaScript — responsive storefront with client-side search, category browsing, and interactive demo cart UI.
+
+### 🛠 Core Stack
+- **Front-End:** HTML5, CSS3 (Flexbox, CSS Grid, Responsive Design), Vanilla JavaScript (ES6+)
+- **Workflow:** Git/GitHub, clean structured code, fast turnaround
+
+---
+
+📫 **Hire me on Fiverr:** https://www.fiverr.com/s/ae7XNwN
